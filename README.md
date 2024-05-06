@@ -1,3 +1,7 @@
+Edit 5/6/2024: The fuction formanImprovement(G, vertex1, vertex2) has a known bug. Will update ReadMe after addressing the issue.
+
+
+
 # Milestone4
 Milestone4
 
